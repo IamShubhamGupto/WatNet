@@ -8,3 +8,6 @@ model/pretrained/*
 .vscode
 .DS_Store
 *__pycache__/
+*.whl
+data/
+.ipynb_checkpoints
